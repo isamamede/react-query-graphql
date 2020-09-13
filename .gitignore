@@ -23,8 +23,7 @@
 
 
 # production
-packages/client/build
-packages/code-gen-plugin/build
+packages/**/build
 
 # misc
 .DS_Store
