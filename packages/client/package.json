@@ -2,7 +2,7 @@
   "name": "@react-query-graphql/client",
   "version": "1.0.0",
   "private": true,
-  "main": "index.ts",
+  "main": "build/index.js",
   "author": "Isadora Mamede <isamamede1@gmail.com>",
   "scripts": {
     "clean": "tsc -clean",

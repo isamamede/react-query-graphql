@@ -1,5 +1,10 @@
 {
   "name": "react-query-graphql",
+  "scripts": {
+    "test": "jest",
+    "lint:fix": "eslint --fix --ext \".js,.ts, .jsx, .tsx\"",
+    "lint": "eslint --ext \".js,.ts, .jsx, .tsx\""
+  },
   "workspaces": [
     "packages/client",
     "packages/code-gen-plugin"
